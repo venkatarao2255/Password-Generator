@@ -49,8 +49,8 @@ This is a simple password generator application created using Python with a Grap
 
 ## Screenshots
 
-![Screenshot 1](screenshots/sc1.png)
-![Screenshot 2](screenshots/sc2.png)
+![Screenshot 1](sc1.png)
+![Screenshot 2](sc2.png)
 
 Include screenshots of your application here to provide users with a visual representation of how the password generator works.
 
